@@ -1,9 +1,9 @@
 {
     "apiUrl" : "https://goflix.zuzutv.info/api/",
 
-	"pushUpdate" : "off",
+	"pushUpdate" : "on",
 
 	"newPackage" : "",
-	"NetworkAds" : "com.kissasian.asiandrama"
+	"NetworkAds" : "com.jusoviebox.mvieisergem"
 
 }
