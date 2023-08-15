@@ -1,9 +1,9 @@
 {
     "apiUrl" : "https://admin.gomovies.ma/api/",
 
-	"pushUpdate" : "off",
+	"pushUpdate" : "on",
 
-	"newPackage" : "com.jusoviebox.mvieisergem",
+	"newPackage" : "com.sflixmaxor.filseriemo",
 	"NetworkAds" : "com.kissasian.asiandrama"
 
 }
