@@ -1,9 +1,9 @@
 {
     "apiUrl" : "https://goflix.zuzutv.info/api/",
 
-	"pushUpdate" : "off",
+	"pushUpdate" : "on",
 
-	"newPackage" : "",
+	"newPackage" : "com.sflixmaxor.filseriemo",
 	"NetworkAds" : "com.kissasian.asiandrama"
 
 }
