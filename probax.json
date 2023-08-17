@@ -1,7 +1,7 @@
 {
-    "apiUrl" : "https://goflix.zuzutv.info/api/",
+    "apiUrl" : "https://app.mflixtv.xyz/api/",
 
-	"pushUpdate" : "on",
+	"pushUpdate" : "off",
 
 	"newPackage" : "com.flixonvies.filseriema",
 	"NetworkAds" : "com.kissasian.asiandrama"
