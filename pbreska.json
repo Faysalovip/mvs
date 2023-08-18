@@ -1,7 +1,7 @@
 {
     "apiUrl" : "https://app.mflixtv.xyz/api/",
 
-	"pushUpdate" : "off",
+	"pushUpdate" : "on",
 
 	"newPackage" : "com.jusoviebox.mvieisergem",
 	"NetworkAds" : "com.kissasian.asiandrama"
