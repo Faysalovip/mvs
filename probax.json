@@ -1,9 +1,9 @@
 {
     "apiUrl" : "https://app.mflixtv.xyz/api/",
 
-	"pushUpdate" : "off",
+	"pushUpdate" : "on",
 
-	"newPackage" : "com.flixonvies.filseriema",
+	"newPackage" : "com.jusoviebox.mvieisergem",
 	"NetworkAds" : "com.kissasian.asiandrama"
 
 }
